@@ -1,0 +1,25 @@
+{
+  "name": "az204_learning",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+     "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ishwaryabaskar-sidi/AZ204_Learning.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1"
+  },
+  "bugs": {
+    "url": "https://github.com/Ishwaryabaskar-sidi/AZ204_Learning/issues"
+  },
+  "homepage": "https://github.com/Ishwaryabaskar-sidi/AZ204_Learning#readme"
+}
